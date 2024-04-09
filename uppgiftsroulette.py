@@ -1,3 +1,14 @@
+# ===========================================================
+#                    Uppgiftsroulette                   
+# ===========================================================   
+# Skapat av: Alissa Pandikow - Den kreativa hjärnan bakom detta fantastiska verk (Tidigare student på teknisk matematik - numera uppgiftsrouletteingenjör)
+# Datum: 2024-04-10
+# Credits:
+#   - Random's Choice Awards: För att ha utsett "Uppgiftsroulette" till toppbetyg i kategorin
+#     bästa uppgiftshanteringssystem. Tack för beröm och stödet!
+# ===========================================================
+
+
 import random
 import sys
 
