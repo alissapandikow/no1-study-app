@@ -1,5 +1,5 @@
 # no1-study-app
-                                                    ✨Uppgiftsroulette✨
+                                                ✨Uppgiftsroulette✨
 
 Välkommen till "Uppgiftsroulette" - den ultimata lösningen för ditt beslutsångest- och uppgiftshanteringssyndrom! Detta eleganta program kombinerar sofistikerad teknik med suverän användarvänlighet för att skapa en upplevelse som är lika njutbar som den är effektiv. Med toppbetyg från våra användare (Alissa) och utvald som  "Årets Uppgiftshanteringssystem" av Random's Choice Awards, är "Uppgiftsroulette" inte bara ett program - det är en livsstil.
 
